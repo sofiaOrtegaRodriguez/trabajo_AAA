@@ -1,0 +1,10 @@
+Para poder ejecutar correctamente los archivos de código, permitiendo así la reproductividad de los diversos experimentos, es necesario ejecutar dichos archivos en -Google Collab.
+Google Collab permite cargar desde Google Drive los diversos datasets, los cuales tienen que encontrarse en la dirección que se indica en la ruta del código, y tener el nombre correspondiente
+para cada dataset, el cual también puede verse en la ruta del código.
+
+Los datasets son los siguientes:
+even dataset : https://drive.google.com/drive/folders/1hJtKkZmQNY4Rnbeau2EtM7a_AXfgQ67W?usp=drive_link
+odd dataset : https://drive.google.com/drive/folders/1icxnSbsLs6yYfw9SVQA7faGbDcAbxCz0?usp=drive_link
+our dataset : https://drive.google.com/drive/folders/1PFlb1RNGoqo75nzAdChdTHPUu6ui5Ztn?usp=drive_link
+dataset fusionado : https://drive.google.com/drive/folders/1MpRsyIrPq8ES-KxgDey_s1tY0GKbghLt?usp=drive_link
+kaggle dataset: https://drive.google.com/drive/folders/1D8TpxE7n1W7kMNqsdB8Bw1AO98d6yxJJ?usp=drive_link
